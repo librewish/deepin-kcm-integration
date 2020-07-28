@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Application;System;Settings
+Comment=Thunderbolt Device Management
+Encoding=UTF-8
+TryExec=/usr/lib/libkbolt.so
+Exec=kcmshell5 kcm_bolt
+Icon=preferences-desktop-thunderbolt
+Name=Thunderbolt Settings
+GenericName=Thunderbolt Settings
+OnlyShowIn=Deepin
+StartupNotify=true
+Terminal=false
+Type=Application
+X-MultipleArgs=false
+X-Deepin-Vendor=deepin

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Application;System;Settings
+Comment=Deepin Kwin Settings
+Encoding=UTF-8
+TryExec=kwin_x11
+Exec=kcmshell5 --caption "Deepin KWin Settings" --desktopfile=/usr/share/kservices5/kwindecoration.desktop kcm_kwin_effects kcm_kwin_virtualdesktops kwincompositing kwindecoration kwinoptions kwinrules  kwinscreenedges kwinscripts kwintabbox kwintouchscreen
+Icon=kwin
+Name=Deepin KWin Settings
+GenericName=KWin Settings
+OnlyShowIn=Deepin
+StartupNotify=true
+Terminal=false
+Type=Application
+X-MultipleArgs=false
+X-Deepin-Vendor=deepin

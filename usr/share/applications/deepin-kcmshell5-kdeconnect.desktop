@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=Application;System;Settings
+Encoding=UTF-8
+TryExec=kdeconnect-app
+Exec=kcmshell5 kcm_kdeconnect
+Icon=preferences-kde-connect
+Name=KDE Connect
+Comment=Connect and sync your devices
+GenericName=KDE Connect
+OnlyShowIn=Deepin
+StartupNotify=true
+Terminal=false
+Type=Application
+X-MultipleArgs=false
+X-Deepin-Vendor=deepin
